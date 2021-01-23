@@ -5,8 +5,9 @@ h1 {
   color: white;
 }
 .button {
+  background-color: #f44336;
   border: none;
-  color: red;
+  color: white;
   padding: 30px 64px;
   text-align: center;
   text-decoration: none;
